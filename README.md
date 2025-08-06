@@ -1,3 +1,5 @@
+Our work was accepted by RAL, The source code will be released soon!
+
 The implementation of paper of "FDSPC: Fast and Direct Smooth Path Planning via Continuous Curvature Integration"<br />
 The source code will be released soon. <br />
 The demonstration of GPCC algorithm planning is shown as follows: <br />
